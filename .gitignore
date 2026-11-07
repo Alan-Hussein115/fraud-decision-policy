@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data - never commit
+data/*
+!data/.gitkeep
+*.csv
