@@ -1,0 +1,7 @@
+{
+  "model": "logistic regression model",
+  "roc_auc_valid": 0.8537,
+  "pr_auc_valid": 0.4258,
+  "precision_top1pct": 0.7902,
+  "recall_top1pct": 0.2275
+}
