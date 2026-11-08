@@ -384,7 +384,8 @@
     "id_20",
     "id_32",
     "has_identity",
-    "log_amtlog_amt_sq"
+    "log_amt",
+    "log_amt_sq"
   ],
   "categorical": [
     "ProductCD",
